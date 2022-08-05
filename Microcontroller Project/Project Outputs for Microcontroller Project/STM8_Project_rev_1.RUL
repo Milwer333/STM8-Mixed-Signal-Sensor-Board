@@ -1,5 +1,0 @@
-DRC Rules Export File for PCB: C:\Users\milwe\Documents\PWr\3 rok\5th\Microcontrollers\Project\Microcontroller Project\STM8_Project_rev_1.PcbDoc
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
